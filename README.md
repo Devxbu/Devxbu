@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNld2FyYWYyYnRqcm9rc3oyYTNucjhueTRyMTZwb3l3MGN2ZXJ3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JUXGVpncYAU8NJ6BWz/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/bahri-uranl%C4%B1-035318213/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -19,23 +13,17 @@
   </a>
 </div>
 
-###
-
 <h1 align="center">hey there 👋</h1>
 
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
-
-###
-
+<div align="center" style="display: flex; justify-content: space-between;">
 <p align="left">Full Stack Developer | React • Next.js • Node.js • Python | AI + Product Builder<br><br>Hi, I’m Bahri 👋<br>I enjoy designing scalable systems, building intuitive interfaces, and experimenting with AI-powered features.<br>I’ve developed products like MelodyWay (QR-based music voting), Maç Bul (match organization platform), and multiple productivity tools.<br><br>🌱 Currently learning: Advanced Next.js patterns, LLM integration, system architecture<br>🏗️ Currently building: Real-time apps, AI-assisted workflows, full-stack products<br>💡 Always open to collaboration</p>
-
-###
+<div align="right">
+  <img style="margin-left: 20px;" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNld2FyYWYyYnRqcm9rc3oyYTNucjhueTRyMTZwb3l3MGN2ZXJ3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JUXGVpncYAU8NJ6BWz/giphy.gif"  />
+</div>
+</div>
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
@@ -115,14 +103,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
 
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Devxbu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Devxbu&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" height="220" alt="streak graph"  />
 </div>
-
-###
