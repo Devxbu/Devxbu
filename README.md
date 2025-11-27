@@ -14,13 +14,28 @@
   </a>
 </div>
 
-<h3 align="left">👩‍💻  About Me</h3>
-<div align="center" style="display: flex; justify-content: space-between;">
-<p align="left">Full Stack Developer | React • Next.js • Node.js • Python | AI + Product Builder<br><br>Hi, I’m Bahri 👋<br>I enjoy designing scalable systems, building intuitive interfaces, and experimenting with AI-powered features.<br>I’ve developed products like MelodyWay (QR-based music voting), Maç Bul (match organization platform), and multiple productivity tools.<br><br>🌱 Currently learning: Advanced Next.js patterns, LLM integration, system architecture<br>🏗️ Currently building: Real-time apps, AI-assisted workflows, full-stack products<br>💡 Always open to collaboration</p>
-<div align="right">
-  <img style="margin-left: 20px;" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNld2FyYWYyYnRqcm9rc3oyYTNucjhueTRyMTZwb3l3MGN2ZXJ3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JUXGVpncYAU8NJ6BWz/giphy.gif"  />
+<h3 align="left">👩‍💻 About Me</h3>
+
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px;">
+    <p>
+      Full Stack Developer | React • Next.js • Node.js • Python | AI + Product Builder<br><br>
+      Hi, I’m Bahri 👋<br>
+      I enjoy designing scalable systems, building intuitive interfaces, and experimenting with AI-powered features.<br>
+      I’ve developed products like MelodyWay (QR-based music voting), Maç Bul (match organization platform), and multiple productivity tools.<br><br>
+      🌱 Currently learning: Advanced Next.js patterns, LLM integration, system architecture<br>
+      🏗️ Currently building: Real-time apps, AI-assisted workflows, full-stack products<br>
+      💡 Always open to collaboration
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 150px; text-align: center;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNld2FyYWYyYnRqcm9rc3oyYTNucjhueTRyMTZwb3l3MGN2ZXJ3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JUXGVpncYAU8NJ6BWz/giphy.gif" height="150" alt="fun gif" />
+  </div>
 </div>
-</div>
+
+
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -102,8 +117,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
 
-<h3 align="left">🔥   My Stats :</h3>
+<!-- <h3 align="center">🔥   My Stats :</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Devxbu&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=Devxbu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div> --!>
+
